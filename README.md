@@ -25,8 +25,7 @@
 
 ## Project Files
 - [CallCenterDashboard.pbix](reports/Call_Center.pbix) – The source Power BI file, allowing for a full review of the data model, DAX calculations, and report design.
-- [CallCenterDashboard.pdf](reports/Call_Center_Dashboard.pdf) – A static, printable version of the final dashboard for quick reference. 
-- ![Dashboard Image](images/dashboard.png) – A high-resolution image of the dashboard for quick viewing.  
+- [CallCenterDashboard.pdf](reports/Call_Center_Dashboard.pdf) – A static, printable version of the final dashboard for quick reference.  
 - [Dataset](dataset/Call-Center-Dataset.xlsx) – The cleaned and prepared dataset used for this analysis. 
 
 ---
